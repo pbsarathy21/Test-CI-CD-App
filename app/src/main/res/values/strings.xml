@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Test CI-CD App</string>
+    <string name="greeting_text">Hi World!</string>
 </resources>
